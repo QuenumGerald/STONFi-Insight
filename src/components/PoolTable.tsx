@@ -9,7 +9,6 @@ import {
   Td,
   Box,
   Text,
-  useColorModeValue,
   Skeleton,
 } from '@chakra-ui/react';
 import { formatCurrency, formatPercentage } from '../utils/format';
